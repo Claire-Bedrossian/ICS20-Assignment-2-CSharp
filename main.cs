@@ -1,7 +1,7 @@
 // Created by: Claire Bedrossian
 // Created on: Oct 2022
 //
-// This program calculates area and perimeter of a square
+// This program calculates the perimeter of a square
 
 using System;
 
